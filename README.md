@@ -16,6 +16,10 @@ Visualizer allow users to steer the model selection process, building intuition 
 - Parallel Coordinates Plot
 - Rank Features
 - Manifold Visualization
+- ROC/AUC Plots
+- Classification Report and Confusion Matrix
+- Cross Validation Scores
+- Evaluating Class Balance
 
 ### SKILLS 
 - . . . . . . . . . . . . . . . . . . . . . . . . .
